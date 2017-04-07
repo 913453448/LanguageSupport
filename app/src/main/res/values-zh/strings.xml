@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">语言切换</string>
+    <string name="hello">你好 !</string>
+    <string name="switch_language">切换语言</string>
+    <string name="change_succ">修改成功!</string>
+
+</resources>
